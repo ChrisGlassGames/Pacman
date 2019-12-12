@@ -1,0 +1,48 @@
+﻿  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\g012280j\Desktop\Legman\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(226): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(227): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(541): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(542): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(544): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(545): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(546): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(547): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(917): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(922): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(927): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(971): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(972): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(992): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1030): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1031): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1066): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1068): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1070): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1072): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1078): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1079): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1080): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1081): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1166): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1229): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1121): warning C4101: 'width': unreferenced local variable
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1119): warning C4101: 'ch': unreferenced local variable
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1478): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g012280j\Desktop\Legman\Pacman\Pacman.cpp(1574): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Pacman.vcxproj -> C:\Users\g012280j\Desktop\Legman\Debug\Pacman.exe
